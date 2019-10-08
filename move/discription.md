@@ -4,12 +4,12 @@
 
 # SYNOPSIS
 
-## git mv (<options>… <args>)
+## git mv (options)… (args)
 
 # DESCRIPTION
 
 ## Move or rename a file, directory or symlink.
 
-### git mv [-v] [-f] [-n] [-k] (<source> <destination>)
+### git mv [-v] [-f] [-n] [-k] (source) (destination)
 
-### git mv [-v] [-f] [-n] [-k] (<source> ... <destination directory>)
+### git mv [-v] [-f] [-n] [-k] (source).. (destination directory)
