@@ -9,7 +9,7 @@ Commits are at the heart of Git usage. You can think of a commit as a snapshot o
 
 **2.** *if multiple commits edit different parts of the project, they will not overwrite each other even if the authors of the commit were unaware of each other. This is one of the benefits of using Git over a tool like Dropbox or Google Drive.*
 
-**3. SYNTAX**
+### **SYNTAX**
 
 `git commit -m 'task/feature: message'`
 
