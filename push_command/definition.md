@@ -1,5 +1,7 @@
 # **GIT PUSH **
 
+## **git push command push commits made on a local branch to a remote repository. The git push command basically takes two arguments: A remote name, for example, origin. A branch name, for example, master.**
+
 ## **Usage**: git push [variable name] master  
 
 ### This command sends the committed changes of master branch to your remote repository.
@@ -31,3 +33,6 @@
 ### git push  <REMOTENAME> <BRANCHNAME> 
 
 ### As an example, you usually run git push origin master to push your local changes to your online repository.
+
+![imagess](https://www.jquery-az.com/wp-content/uploads/2018/07/10.0_4-Git-push.png)
+
