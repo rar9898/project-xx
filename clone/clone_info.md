@@ -14,8 +14,6 @@
 cd my-project
 Start working on the project`
 
-*Start working on the project*
-
 *The first command initializes a new Git repository in the my-project folder on your local machine and populates it with the contents of the central repository. Then, you can cd into the project and start editing files, committing snapshots, and interacting with other repositories. Also note that the .git extension is omitted from the cloned repository. This reflects the non-bare status of the local copy.*
 
 ### Cloning to a specific folder
@@ -24,13 +22,13 @@ Start working on the project`
 
 ### Clone the repository located at <repo> into the folder called ~<directory>! on the local machine.
 
-Cloning a specific tag
+### Cloning a specific tag
 
 `Git clone --branch <tag> <repo>`
 
 Clone the repository located at <repo> and only clone the ref for <tag>.
 
-###Shallow clone
+### Shallow clone
 
 `git clone -depth=1 <repo>`
 
