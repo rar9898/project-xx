@@ -18,6 +18,6 @@
 
 ## -v
 
-###--verbose
+### --verbose
 
 *Report the names of files as they are moved.*
