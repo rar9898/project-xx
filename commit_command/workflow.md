@@ -1,4 +1,4 @@
-**SAVING CHANGES WITH A COMMIT**
+@@ -3,6 +3,8 @@  **SAVING CHANGES WITH A COMMIT**
 
 + ---
 +
@@ -16,9 +16,9 @@ This command will add hello.md to the Git staging area.
 **`git status`**
 
 `On branch master
-Changes to be committed:
-(use "git reset HEAD <file>..." to unstage)
-new file: hello.md`
+    Changes to be committed:
+       (use "git reset HEAD <file>..." to unstage)
+           new file: hello.md`
 
  *hello.md indicates that hello.md will be saved with the next commit.*
 
@@ -29,8 +29,8 @@ new file: hello.md`
  This will open a text editor (customizable via git config) asking for a commit log message, along with a list of what’s being committed:
 
 `Please enter the commit message for your changes. Lines starting
-with '#' will be ignored, and an empty message aborts the commit
-On branch master
-Changes to be committed:
-use "git reset HEAD ..." to unstage
-modified: hello.md`
+    with '#' will be ignored, and an empty message aborts the commit
+      On branch master
+        Changes to be committed:
+          use "git reset HEAD ..." to unstage
+             modified: hello.md`
