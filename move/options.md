@@ -2,7 +2,7 @@
 
 ## -f
 
-###--force
+### --force
 
 *Force renaming or moving of a file even if the target exists*
 
