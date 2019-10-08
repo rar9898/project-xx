@@ -1,4 +1,4 @@
- #  **SAVING CHANGES WITH A COMMIT**(h1)
+# **SAVING CHANGES WITH A COMMIT**
 =============================================
 
 *The following example assumes that we edited some content in a file called hello.md on the current branch, and are ready to commit it to the project history.*
